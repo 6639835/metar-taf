@@ -2,8 +2,8 @@ name: Download METAR Data
 
 on:
   schedule:
-    # 每分钟的第0秒执行，确保整点分钟执行
-    - cron: '0 * * * *'
+    # 每分钟执行一次
+    - cron: '*/10 * * * *'
   workflow_dispatch: # 允许手动触发
 
 jobs:
