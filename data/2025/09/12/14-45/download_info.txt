@@ -1,0 +1,4 @@
+Download timestamp: 2025-09-12 14:45:17 UTC
+Source URL: https://aviationweather.gov/data/cache/metars.cache.xml.gz
+File size: 4312402 bytes
+XML filename: metars_20250912_1445UTC.xml
